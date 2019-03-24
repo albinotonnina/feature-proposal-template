@@ -1,27 +1,45 @@
 ---
 name: Feature proposal
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
+title: ""
+labels: ""
+assignees: ""
 ---
 
-## Problem
+## Reason or Problem
+
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-## Solution
+## Proposal or Solution
+
 A clear and concise description of what you want to happen.
 
 ### Design
+
 UMLs or describe entities involved, their behaviors and relationships.
 
 ### Sample usage
 
-## Alternatives solutions I've considered
+Clear set of instructions
+
+## Alternatives solutions
+
 A clear and concise description of any alternative solutions or features you've considered.
 
+## Stakeholders and Dependent software components
 
+## Testing plan
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Acceptance scenarios
+
+## Other Design tenets
+
+### Performance
+
+### Security
+
+### Configuration
+
+### Maintainability (extensibility points in the design)
+
+### Logging
