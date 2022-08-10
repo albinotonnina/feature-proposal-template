@@ -1,10 +1,6 @@
----
-name: Feature proposal
-about: Suggest an idea for this project
-title: ""
-labels: ""
-assignees: ""
----
+| Name   | About  | Title  | Labels  | Assignees  |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| This can be moved into a separate method | a separate method | "" | "" | "" |
 
 ## Reason or Problem
 
